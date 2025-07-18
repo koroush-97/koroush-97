@@ -1,4 +1,4 @@
-## 💻 My front-end technology stack includes.
+## 💻 My front-end technology stack includes
 ---
 
 |              |               |                  |                   |
