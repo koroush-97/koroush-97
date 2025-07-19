@@ -14,5 +14,5 @@
 ## 🛠️ Git Status
 
 ![Top Langs Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=koroush-97&layout=donut&theme=dark)
-
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=koroush-97&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
