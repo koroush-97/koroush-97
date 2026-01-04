@@ -17,6 +17,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koroush-97&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=koroush-97&theme=dark&hide_border=true)
+
 
 
